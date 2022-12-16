@@ -4,3 +4,25 @@
     margin: 0;
 }
 
+.conteiner {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+}
+
+.righa{
+    justify-content: space-between;
+    flex-direction: row; 
+}
+
+header {
+    background-color: orangered;
+}
+
+.logo{
+    max-width: 100%;
+    height: 50px;
+}
